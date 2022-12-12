@@ -1,0 +1,32 @@
+{
+  "name": "arvis0011-v13-advanced-ticket-system",
+  "version": "1.0.0",
+  "description": "ArviS#0011 - V13 Advanced Ticket System",
+  "main": "arvis.js",
+  "scripts": {
+    "test": "node arvis.js"
+    },
+
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ArviSlayer/V13-Gelismis-Ticket-Bot.git"
+    },
+
+    "author": "ArviS#0011",
+    "license": "MIT",
+
+    "bugs": {
+      "url": "https://github.com/ArviSlayer/V13-Gelismis-Ticket-Bot/issues"
+    },
+
+    "homepage": "https://github.com/ArviSlayer/V13-Gelismis-Ticket-Bot#readme",
+    "dependencies": {
+    "@agc93/privatebin": "^0.0.3",
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.2.0",
+    "nodemon": "^2.0.20"
+  }
+}
