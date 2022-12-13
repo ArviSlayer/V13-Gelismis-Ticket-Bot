@@ -171,7 +171,7 @@ module.exports = {//ArviS#0011
               const embed = new client.discord.MessageEmbed()
                 .setColor('#2f3136')
                 .setAuthor({name: 'ArviS#0011 | V13 Advanced Ticket System', iconURL: client.user.displayAvatarURL()})
-                .setDescription('```Aşağıdaki Butonu Kullanarak, Kanalda Geçen Tüm Konuşmaların Yedeğini Alabilirsin \n\nPowered By PrivateBin```')
+                .setDescription('```Aşağıdaki Butonu Kullanarak, Kanalda Geçen Tüm Konuşmaların Yedeğini Alabilirsin```')
                 .setFooter({text: `Made by ❤️ ArviS#0011`});
 
               const row = new client.discord.MessageActionRow()
