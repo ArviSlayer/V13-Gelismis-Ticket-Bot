@@ -151,7 +151,7 @@ module.exports = {//ArviS#0011
           });
 
           arvis.edit({//   ArviS#0011
-              name: `kapandı-${arvis.name}`,
+              name: `kapalı-${arvis.name}`,
               permissionOverwrites: [
                 {
                   id: client.users.cache.get(arvis.topic),
