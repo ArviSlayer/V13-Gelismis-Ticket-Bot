@@ -1,5 +1,5 @@
-# 🤖・Bota BİLEREK 8 Farklı EXTREM Hata Bırakıldı
-⭐・8 EXTREM Hatayıda Çözüp Botu Başlatabilirsiniz
+# 🤖・Bota BİLEREK 4 Farklı Hata Bırakıldı
+⭐・4 Hatayıda Çözüp Botu Başlatabilirsiniz
 # 
 
 # 📞・İLETİŞİM
