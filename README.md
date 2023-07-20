@@ -40,5 +40,3 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/v13-gelismis-ticket-bot-10992
 
 # ❗・NOT
 😙・Hata çözümleri için yardım istemeyin. Hatalar, "gerçekten bilgisi olupta çözebilenlerle kullansın" diye var. O yüzden "hataları söyler misin? Hatalar konusunda yardımcı olur musun?" gibi sorularla gelmeyin.
-#
-#
