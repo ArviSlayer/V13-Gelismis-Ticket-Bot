@@ -2,7 +2,7 @@
 ⭐・4 Hatayıda Çözüp Botu Başlatabilirsiniz
 # 
 #
-
+d
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
 https://www.itemsatis.com/discord/v13-gelismis-ticket-bot-1741164.html
 
