@@ -11,7 +11,7 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/v13-gelismis-ticket-bot-10992
 #
 
 # 📞・İLETİŞİM
-💙・**Discord:** ArviS#0011
+💙・**Discord:** arvis.
 
 🔗・**Destek Sunucusu:** [Tıkla](https://discord.gg/3AfAFE5qYg)
 
