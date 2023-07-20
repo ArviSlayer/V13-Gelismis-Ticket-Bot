@@ -1,6 +1,14 @@
 # 🤖・Bota BİLEREK 4 Farklı Hata Bırakıldı
 ⭐・4 Hatayıda Çözüp Botu Başlatabilirsiniz
 # 
+#
+
+# 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
+https://www.itemsatis.com/discord/v13-gelismis-ticket-bot-1741164.html
+
+https://www.itempazar.com/discord-uye-nitro-sunucu/v13-gelismis-ticket-bot-109920
+# 
+#
 
 # 📞・İLETİŞİM
 💙・**Discord:** ArviS#0011
@@ -8,6 +16,7 @@
 🔗・**Destek Sunucusu:** [Tıkla](https://discord.gg/3AfAFE5qYg)
 
 💜・**Instagram:** [Tıkla](https://www.instagram.com/arvis_here/)
+#
 #
 
 # 📷・GÖRSELLER
@@ -28,3 +37,8 @@
 ![Screenshot_8](https://user-images.githubusercontent.com/69751083/207131903-4385760f-8b7a-48b5-bf5d-4b0d50e6b2be.png)
 
 ![Screenshot_9](https://user-images.githubusercontent.com/69751083/207131909-f690ff92-df5b-44f2-acab-7df9090122c0.png)
+
+# ❗・NOT
+😙・Hata çözümleri için yardım istemeyin. Hatalar, "gerçekten bilgisi olupta çözebilenlerle kullansın" diye var. O yüzden "hataları söyler misin? Hatalar konusunda yardımcı olur musun?" gibi sorularla gelmeyin.
+#
+#
